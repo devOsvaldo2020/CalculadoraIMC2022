@@ -68,13 +68,14 @@ input {
 @media screen and (max-device-width: 600px) {
     .container {        
         margin: auto;
-        min-width: 230px;
-        font-size: 22px;
+        min-width: 230px;        
         /* centralizando */
         position: absolute;
         top: 50%;
         left: 50%;
-        transform: translate(-50%, -50%);              
-        
+        transform: translate(-50%, -50%);
+    }
+    #resultado {    
+        font-size: 25px;        
     }
 }
