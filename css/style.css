@@ -66,16 +66,15 @@ input {
 
 
 @media screen and (max-device-width: 600px) {
-    .container {
-        border: 1px solid black;
+    .container {        
         margin: auto;
-        min-width: 250px;
+        min-width: 230px;
+        font-size: 22px;
         /* centralizando */
         position: absolute;
         top: 50%;
         left: 50%;
-        transform: translate(-50%, -50%);
-               
+        transform: translate(-50%, -50%);              
         
     }
 }
