@@ -11,7 +11,7 @@ body {
     min-width: 400px;
     /* centralizando */
     position: absolute;
-    top: 30%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     /* termino centralizando */
@@ -71,7 +71,7 @@ input {
         min-width: 400px;        
         /* centralizando */
         position: absolute;
-        top: 60%;
+        top: 70%;
         left: 50%;
         transform: translate(-50%, -50%);
     }
