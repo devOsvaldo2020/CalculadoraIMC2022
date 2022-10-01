@@ -71,8 +71,8 @@ input {
         min-width: 200px;        
         /* centralizando */
         position: absolute;
-        top: 70%;
-        left: 50%;
+        top: auto;
+        left: auto;
         transform: translate(-50%, -50%);
     }
     #resultado {    
