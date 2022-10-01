@@ -8,7 +8,7 @@ body {
 .container {
     border: 1px solid black;
     margin: 10px;
-    min-width: 400px;
+    min-width: 450px;
     /* centralizando */
     position: absolute;
     top: 40%;
@@ -68,7 +68,7 @@ input {
 @media screen and (max-device-width: 600px) {
     .container {        
         margin: auto;
-        min-width: 400px;        
+        min-width: 200px;        
         /* centralizando */
         position: absolute;
         top: 70%;
