@@ -68,7 +68,7 @@ input {
 @media screen and (max-device-width: 600px) {
     .container {        
         margin: auto;
-        min-width: 230px;        
+        min-width: 250px;        
         /* centralizando */
         position: absolute;
         top: 50%;
